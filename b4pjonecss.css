@@ -1,0 +1,40 @@
+.bgimg{
+	background-image:url("aaa.jpg");
+	background-size:100% 100%;
+	background-attachment:fixed;
+	width:100%;
+	height:660px;
+}
+.harderset{
+	padding-top:220px;
+	box-sizing:border-box;
+	
+}
+.harderset h2{
+	font-size:42px;
+}
+.harderset h1{
+	font-size:72px;
+	font-weight:bold;
+}
+.OurService{
+padding-top:200px;
+}
+.imgsetting{
+	border-radius:50%;
+	height:100px;
+	width:100px;
+}
+.fa-shopping-cart{
+margin-top:20px;
+}
+.fa-desktop{
+	margin-top:24px;
+}
+.fa-lock{
+	margin-top:24px;
+}
+.OurService h1{
+font-size:72px;
+	font-weight:bold;
+}
